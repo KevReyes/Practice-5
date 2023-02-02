@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to bottom, #f60000, #ffee00, #4de94c, #3783ff, #4815aa);
+
+} 
+
+img{
+    height: 498px;
+    width: auto;
+    border: 0px;
+}
+
+
+.centered{
+    text-align: center;
+	color: #ffffff;
+}
+
+
+a{
+	color: #ffffff;
+	padding: 10px;
+}
